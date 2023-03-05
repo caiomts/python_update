@@ -13,14 +13,14 @@ A simple bash script to keep my global python up to date.
 $ git clone https://github.com/caiomts/python_update.git
 ```
 
-### Turn the Script Executable
+### Turning the script into an executable
 
 ```
 $ cd python_update
 $ chmod +x pyupdate.sh 
 ```
 
-### How to Execute It
+### How to run it
 
 ```
 $ . /path/to/the/script/pyupdate.sh 
