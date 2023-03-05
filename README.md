@@ -13,7 +13,7 @@ A simple bash script to keep my global python up to date.
 $ git clone https://github.com/caiomts/python_update.git
 ```
 
-### Turning the script into an executable
+### Turning the script executable
 
 ```
 $ cd python_update
