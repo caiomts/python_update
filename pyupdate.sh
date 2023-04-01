@@ -10,7 +10,7 @@ pyenv update &> /dev/null
 last_version=$(pyenv install --list | grep -E '^[[:blank:]0-9\.]+$' | tail -1)
 
 # global python version
-global_version=$(python -V &> /dev/null)
+global_version=$(python -V 2> /dev/null)
 
 # Config folder
 path_config=$HOME/.config/pyupdate
